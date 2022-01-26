@@ -1,0 +1,141 @@
+# depslib dependency file v1.0
+1593918272 source:e:\20200705\main.c
+	<stdio.h>
+	<stdlib.h>
+	"game.h"
+
+1594191662 e:\20200705\game.h
+	<time.h>
+	<stdio.h>
+
+1593950646 source:e:\20200705\mywindows.c
+	"mywindows.h"
+
+1593912223 e:\20200705\mywindows.h
+	<windows.h>
+
+1594216502 source:e:\20200705\game.c
+	"game.h"
+	"data.h"
+	"mywindows.h"
+	<conio.h>
+
+1594105133 e:\20200705\data.h
+
+1594364714 source:c:\users\29721\desktop\20200705\main.c
+	<stdio.h>
+	<stdlib.h>
+	"game.h"
+	"mywindows.h"
+	<conio.h>
+	<mmsystem.h>
+
+1594353461 c:\users\29721\desktop\20200705\game.h
+	<time.h>
+	<stdio.h>
+
+1593950646 source:c:\users\29721\desktop\20200705\mywindows.c
+	"mywindows.h"
+
+1593912223 c:\users\29721\desktop\20200705\mywindows.h
+	<windows.h>
+
+1594365470 source:c:\users\29721\desktop\20200705\game.c
+	"game.h"
+	"data.h"
+	"mywindows.h"
+	<conio.h>
+	<mmsystem.h>
+
+1594306356 c:\users\29721\desktop\20200705\data.h
+
+1593950646 source:c:\users\29721\desktop\20200705 - ∏±±æ\mywindows.c
+	"mywindows.h"
+
+1593912223 c:\users\29721\desktop\20200705 - ∏±±æ\mywindows.h
+	<windows.h>
+
+1594354126 source:c:\users\29721\desktop\20200705 - ∏±±æ\game.c
+	"game.h"
+	"data.h"
+	"mywindows.h"
+	<conio.h>
+	<mmsystem.h>
+	"game.h"
+	"data.h"
+	"mywindows.h"
+	<conio.h>
+	<mmsystem.h>
+
+1594353461 c:\users\29721\desktop\20200705 - ∏±±æ\game.h
+	<time.h>
+	<stdio.h>
+
+1594306356 c:\users\29721\desktop\20200705 - ∏±±æ\data.h
+
+1594354575 source:c:\users\29721\desktop\20200705 - ∏±±æ\main.c
+	<stdio.h>
+	<stdlib.h>
+	"game.h"
+
+1594307163 source:c:\users\29721\desktop\20200705 - ∏±±æ\game1.c
+	"game.h"
+	"data.h"
+	"mywindows.h"
+	<conio.h>
+	<mmsystem.h>
+
+1594365470 source:c:\users\29721\desktop\c”Ô—‘ µ—µ\20200705\game.c
+	"game.h"
+	"data.h"
+	"mywindows.h"
+	<conio.h>
+	<mmsystem.h>
+
+1594353461 c:\users\29721\desktop\c”Ô—‘ µ—µ\20200705\game.h
+	<time.h>
+	<stdio.h>
+
+1594306356 c:\users\29721\desktop\c”Ô—‘ µ—µ\20200705\data.h
+
+1593912223 c:\users\29721\desktop\c”Ô—‘ µ—µ\20200705\mywindows.h
+	<windows.h>
+
+1594364714 source:c:\users\29721\desktop\c”Ô—‘ µ—µ\20200705\main.c
+	<stdio.h>
+	<stdlib.h>
+	"game.h"
+	"mywindows.h"
+	<conio.h>
+	<mmsystem.h>
+
+1593950646 source:c:\users\29721\desktop\c”Ô—‘ µ—µ\20200705\mywindows.c
+	"mywindows.h"
+
+1594365470 source:c:\users\29721\desktop\c”Ô—‘¡∑œ∞\c”Ô—‘ µ—µ\20200705\game.c
+	"game.h"
+	"data.h"
+	"mywindows.h"
+	<conio.h>
+	<mmsystem.h>
+
+1594353461 c:\users\29721\desktop\c”Ô—‘¡∑œ∞\c”Ô—‘ µ—µ\20200705\game.h
+	<time.h>
+	<stdio.h>
+
+1594306356 c:\users\29721\desktop\c”Ô—‘¡∑œ∞\c”Ô—‘ µ—µ\20200705\data.h
+
+1593912223 c:\users\29721\desktop\c”Ô—‘¡∑œ∞\c”Ô—‘ µ—µ\20200705\mywindows.h
+	<windows.h>
+
+1594364714 source:c:\users\29721\desktop\c”Ô—‘¡∑œ∞\c”Ô—‘ µ—µ\20200705\main.c
+	<stdio.h>
+	<stdlib.h>
+	"game.h"
+	"mywindows.h"
+	<conio.h>
+	<mmsystem.h>
+
+1593950646 source:c:\users\29721\desktop\c”Ô—‘¡∑œ∞\c”Ô—‘ µ—µ\20200705\mywindows.c
+	"mywindows.h"
+
